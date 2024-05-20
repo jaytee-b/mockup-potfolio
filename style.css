@@ -64,7 +64,7 @@ nav .right .login-bt {
 main {
   display: flex;
   background-color: whitesmoke;
-  width: 100vw;
+  width: 100%;
   height: 80vh;
 }
 main .left {
